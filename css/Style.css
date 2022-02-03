@@ -1,0 +1,79 @@
+body{
+  background-color: #070707;
+  padding: 80px 120px;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.navbar{
+  background-color: yellow;
+  padding: 20px 60px;
+  border-top: 30px solid black;
+  border-bottom: 20px solid black;
+}
+.nav-item{
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+  padding: 0 20px;
+}
+.logo{
+  width: 10%;
+}
+.nav-link{
+  color: Black;
+}
+
+.row{
+  background-color: black;
+  margin: 0;
+  color: white;
+  padding: 30px 60px;
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  color: yellow;
+}
+p{
+  padding: 10px 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+.twsp{
+  border: 10px solid white;
+  width: 80%;
+}
+
+.col-lg-6{
+  padding: 0;
+}
+.desp{
+  padding: 140px 0;
+}
+.tralogo{
+  border: 10px solid white;
+  width: 80%;
+  margin-left: 113px;
+}
+.r2{
+font-family: 'Ubuntu', sans-serif;
+background-color: black;
+padding: 60px 0;
+text-align: center;
+}
+.soc{
+  background-color: black;
+  margin: 0 12px;
+  color: white;
+  padding: 30px 60px;
+}
+.sh{
+  text-align: center;
+  color: yellow;
+  font-weight: 500;
+  font-size: 40px;
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
