@@ -1,23 +1,26 @@
 body{
   background-color: #070707;
-  padding: 80px 120px;
   font-family: 'Merriweather Sans', sans-serif;
 }
 
+/*Tiltle*/
+.container-fluid{
+    padding: 5rem 7.5rem;
+}
 .navbar{
   background-color: yellow;
-  padding: 20px 60px;
-  border-top: 30px solid black;
-  border-bottom: 20px solid black;
+  padding: 0.625rem 3.15rem;
+  border-top: 1.8rem solid black;
+  border-bottom: 1.25rem solid black;
 }
 .nav-item{
   color: white;
   font-weight: 400;
   font-size: 20px;
-  padding: 0 20px;
+  padding: 0 0.625rem;
 }
 .logo{
-  width: 10%;
+  width: 7rem;
 }
 .nav-link{
   color: Black;
